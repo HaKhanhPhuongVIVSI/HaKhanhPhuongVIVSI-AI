@@ -1,2 +1,2 @@
 # HaKhanhPhuongVIVSI-AI
-AI Virtual Singer
+AI Virtual Singer By Diff SVC
